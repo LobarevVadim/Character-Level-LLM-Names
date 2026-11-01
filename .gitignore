@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+out/
+training*.log
+training.pid
+.env
+.env.*
+!.env.example
